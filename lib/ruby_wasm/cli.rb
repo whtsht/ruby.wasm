@@ -243,8 +243,8 @@ module RubyWasm
           name: "head",
           src: {
             type: "github",
-            repo: "ruby/ruby",
-            rev: "master"
+            repo: "whtsht/ruby",
+            rev: "trace"
           },
           all_default_exts: RubyWasm::Packager::ALL_DEFAULT_EXTS,
           wasi_sdk_version: "24.0"
