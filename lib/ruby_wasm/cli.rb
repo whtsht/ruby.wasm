@@ -244,7 +244,7 @@ module RubyWasm
           src: {
             type: "github",
             repo: "whtsht/ruby",
-            rev: "trace"
+            rev: "wasm-meta"
           },
           all_default_exts: RubyWasm::Packager::ALL_DEFAULT_EXTS,
           wasi_sdk_version: "24.0"
